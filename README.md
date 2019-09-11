@@ -1,8 +1,6 @@
 # CSNotes
-Notes for CK401
+### Notes for CK401 - Computer Science
 
-*test*
-**test**
-
-`test`
-<h1>test</h1>
+cuc.ucc.ie<br/>
+cuc.ucc.ie/jpm/CS5020<br/>
+sit.ucc.ie
