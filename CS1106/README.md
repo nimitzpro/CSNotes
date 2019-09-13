@@ -1,4 +1,4 @@
-# Directory for CS1106
+# Directory for CS1106 - Databases I 
 
 ## What we will study
 - Structure and organisation of relational DBs

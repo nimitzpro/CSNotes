@@ -1,1 +1,1 @@
-# Directory for CS1117
+# Directory for CS1117 - Introduction to Programming
