@@ -7,4 +7,10 @@
 ## Test Dates
 ### In-class Tests : 
 #### 1. 8th November, test is up to `Functions`
+- Intro to CS1112, Intro to Algorithms, Sets, Functions
 #### 2. 29th November
+- Relations, Order Relations
+
+#### Problem Questions up to 2
+- Username : cs1
+- Password : cs1
