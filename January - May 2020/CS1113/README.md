@@ -10,4 +10,5 @@ Link : http://osullivan.ucc.ie/teaching/cs1113/
 ## Exams : 
 - Final Exam : 80%
 - Two in-class tests : 20%
-    - Test 1 : 2nd April
+    - Test 1 : 6th March
+    - Test 2 : 3rd April
